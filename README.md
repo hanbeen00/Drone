@@ -1,5 +1,5 @@
 # Drone
-
+YouTube : https://youtu.be/mxlhDVbI0MA
 - 이중 PID 제어 사용
 - SPI 통신을 통한 센서 데이터 수신
 - UART 무선 통신을 이용한 드론 상태 정보 송수신
